@@ -1,2 +1,2 @@
 # My_github_test
-Test github repository
+This is my github test repo - welcome!
