@@ -1,0 +1,85 @@
+{
+    "title": "D*List 4/21/2026",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1681,
+            "height": 364,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://thedlist.co.nz/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://thedlist.co.nz/",
+                    "title": "The D*List - The home of disability culture in Aotearoa"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load More"
+                ],
+                [
+                    "#main button"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/section/div[2]/div/div/p/button"
+                ],
+                [
+                    "pierce/#main button"
+                ]
+            ],
+            "offsetY": 24.131622314453125,
+            "offsetX": 94.05255126953125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load More"
+                ],
+                [
+                    "#main button"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/section/div[2]/div/div/p/button"
+                ],
+                [
+                    "pierce/#main button"
+                ]
+            ],
+            "offsetY": 22.907073974609375,
+            "offsetX": 134.05255126953125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load More"
+                ],
+                [
+                    "#main button"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/section/div[2]/div/div/p/button"
+                ],
+                [
+                    "pierce/#main button"
+                ]
+            ],
+            "offsetY": 33.11393737792969,
+            "offsetX": 128.05255126953125
+        }
+    ]
+}
